@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 
 def hello_res(res):
-    return HttpResponse('<h1>Hello, GitHub !!!</h1>')
+    return HttpResponse('<h1>Hello, GitHub Actions !!!</h1>')
